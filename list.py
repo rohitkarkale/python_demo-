@@ -1,0 +1,23 @@
+numbers=[2,3,5,6,6]
+mix_list=[3,'Rohit',True,23.5]
+name=['rohit','ram','shiv']
+#name.reverse()
+#print(name)
+#print(numbers[1:5])
+#print(len(mix_list))
+#numbers.sort()
+#rint(numbers)
+#numbers.reverse()
+#print(numbers)
+#print(max(numbers))
+#numbers.append(45)
+#print(numbers)
+#numbers.insert(3,43)
+#print(numbers)
+#numbers.extend([23,24,25,26])
+#print(numbers)
+#numbers[1:3]=[4,7]
+#numbers.remove(6) #only remove 1st value
+#print(numbers.pop())
+#print(numbers)
+print(numbers.count(6))
